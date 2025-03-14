@@ -21,6 +21,9 @@ I am a **Senior Cloud Engineer (SRE)** with **7+ years of experience** specializ
 
 ## 🛠️ **Technical Skills**
 
+![Azure](https://img.shields.io/badge/Azure-0078D7?logo=microsoftazure&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?logo=azuredevops&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+
+
 - **Cloud Platforms:** Azure Cloud  
 - **Containerization:** Docker, Kubernetes (AKS), Helm  
 - **Infrastructure as Code (IaC):** Terraform  
